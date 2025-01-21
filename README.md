@@ -3,10 +3,10 @@
 A Food Order System developed using Python! 🐍 This system is designed to streamline the process of ordering food with user-friendly features.
 
 🔑 Key Features:
-✅ View Menu – Browse through the available dishes with prices
-✅ Place Order – Select items and customize quantities
-✅ Order Summary – Display the ordered items and total cost
-✅ Checkout – Calculate the final bill, including tax and discounts (if applicable)
+- ✅ View Menu – Browse through the available dishes with prices
+- ✅ Place Order – Select items and customize quantities
+- ✅ Order Summary – Display the ordered items and total cost
+- ✅ Checkout – Calculate the final bill, including tax and discounts (if applicable)
 
 🛠️ Technology Used:
 - 🔹 Python for backend logic
