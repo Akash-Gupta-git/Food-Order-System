@@ -1,12 +1,15 @@
 menu = {
-    'As' : 45,
-    'Italy' : 450,
-    'Dosa' : 390,
-    'Sambhar': 350,
-    'Samosa' : 59,
-    'Pizza' : 290,
-    'Chilly' : 260,
-    'Momos' :  250
+    'Burger'    : 45,
+    'Italy'     : 450,
+    'Dosa'      : 390,
+    'Sambhar'   : 350,
+    'Samosa'    : 59,
+    'Pizza'     : 290,
+    'Chilly'    : 260,
+    'Momos'     : 250,
+    'Seattle'   : 400,
+    'Boston'    : 340,
+    'Atlanta'   : 239,
 }
 Total_price = 0 
 
